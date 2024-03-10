@@ -59,6 +59,7 @@ h1{
   object-fit: contain;
   object-position: center;
   border: none;
+  cursor: pointer;
 }
 
 .lengthSelect{
